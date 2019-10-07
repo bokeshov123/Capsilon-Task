@@ -1,3 +1,7 @@
+### *The solutions are made by using the OpenCv library(C++)**
+
+
+
 ### **TASK 1:**
 In the document below, Net Amount/Gross Amount information is printed on a grey
 background. We need to clean such documents, in such a way that the grey background
